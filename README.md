@@ -32,7 +32,7 @@ This is the first step, and the most fun, in the application – The Coding Chal
 
 ## The brief
 
-Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for the first part of the education. Your task is to choose **one word** from the glossary.md file in code folder. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for the first part of the education. Your task is to exmplain **one word** from the glossary.md file in code folder. Choose the word with the number that matches your bithday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
 
 Style your page it however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
 
