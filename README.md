@@ -32,16 +32,19 @@ This is the first step, and the most fun, in the application – The Coding Chal
 
 ## The brief
 
-This is your chance to make your personal mark on one of the most used web services out there today: GOOGLE. We want you to re-build the front, meaning how it looks like NOT any functionality. Style it however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
+Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for the first part of the education. Your task is to choose **one word** from the glossary.md file in code folder. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+
+Style your page it however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
 
 ## Requirements
 Your solution must contain:
-* An image.
-* A button.
-* An input field.
+* An title.
+* A paragraph of text to explain your word (~100 words)
+* 3 links to useful resources to read more. 
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
+All the application pages will be shared aming those that get accepted into the program and be used as a glossary during the program. Make sure to write in english. 
 
 ### Why a coding challenge?
 We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
@@ -85,9 +88,6 @@ If you haven't coded before we suggest these resources to get you started, but f
 
 ### :sos: How to get help
 Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! Try searching for your questions on Google or for example in an online development community like [MDN](https://developer.mozilla.org/en-US/) .
-
-If you need help with the code challenge or just want to visit our studio - we arrange an open house on May 3rd. If you would like to participate, read more and sign up on [the Event Site ](https://try-our-boot-camp.confetti.events/?__s=vyhfce5ozsxgixv1xmkr)  
-
 
 
 ---
