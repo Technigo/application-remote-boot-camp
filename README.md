@@ -1,4 +1,4 @@
-# :star2: How to apply for the Technigo Remote frontend program :star2:
+# :star2: Apply for the Technigo Remote frontend program :star2:
 
 We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code challenge and the written application. The application is designed to let you try out three of the foundations of the program: 
 
