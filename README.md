@@ -12,11 +12,11 @@ The application is a bit different if you are applying for the full program or o
 
 ✅First, complete the code introduction. See brief below. 
 
-✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)**
+✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/f5xUV3)**
 
 ### Apply only to part 1: 
 
-✅Fill in your written application. 
+✅Fill in your written application.**[Fill in the written application](https://technigo.typeform.com/to/OSD9bb) 
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
@@ -64,7 +64,7 @@ Hand in the assignment by:
 * Create an account on Github.com
 * Start a new repository or project, make sure it's public.
 * [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your whole code folder.
-* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/WYgUEV)
+* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/f5xUV3)
 
 Good luck!
 
