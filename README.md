@@ -1,22 +1,18 @@
 # Apply for the Technigo Remote Frontend Program
 
-We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program: 
+We're happy that you're thinking about applying for our new remote boot camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program: 
 
 1. Coding
 2. Knowledge sharing
 3. Self-reflection
 
-The application is a bit different if you are applying for the full program or only the first part. The first part can be seen as a basic course in frontend development and is not enough to start working with code directly after. Since the objectives are a bit different, so is the application. 
 
-### Apply for the full program: 
+### What you need to do: 
 
 ✅First, complete the code introduction. See brief below. 
 
 ✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/f5xUV3)**
 
-### Apply only to part 1: 
-
-✅Fill in your written application.**[Fill in the written application](https://technigo.typeform.com/to/OSD9bb) 
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
