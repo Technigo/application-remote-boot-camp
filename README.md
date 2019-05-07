@@ -1,16 +1,16 @@
-# :star2: Apply for the Technigo Remote frontend program :star2:
+# Apply for the Technigo Remote frontend program
 
-We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code challenge and the written application. The application is designed to let you try out three of the foundations of the program: 
+We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program: 
 
 1. Coding
 2. Knowledge sharing
 3. Self-reflection
 
-The application is however different if you are applying for the full program or only the first part. The first part can be seen as a course in frontend development and is not enough to start working with code directly after. Since the objectives are a bit different, so is the application. 
+The application is a bit different if you are applying for the full program or only the first part. The first part can be seen as a basic course in frontend development and is not enough to start working with code directly after. Since the objectives are a bit different, so is the application. 
 
 ### Apply for the full program: 
 
-✅First, complete the code challenge. See brief below. 
+✅First, complete the code introduction. See brief below. 
 
 ✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)**
 
@@ -20,21 +20,23 @@ The application is however different if you are applying for the full program or
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
-We will fill seats continuously. You can expect to get an answer from us no later than 14 days from you handing in your application. This means that the faster you hand in your application the faster you'll get an answer and your chans of getting a spot is higher.
+We will fill seats continuously. You can expect to get an answer from us no later than 14 days from you handing in your application. This means that the faster you hand in your application the faster you'll get an answer and your chance of getting a spot is higher.
 
-Start preparing already now with your employer for potential leave of absence. The program starts on September 3rd – Yay!
+Start preparing already now with your employer for potential leave of absence. The program starts on September 26 – Yay!
 
 Good luck! 
 
-# Technigo Code Challenge
+# Technigo Code Introduction
 
-This is the first step, and the most fun, in the application – The Coding Challenge. 
+This is the first step, and the most fun, in the application – The Coding Introduction. Yes, we want you to do a little coding challenge – don't panic. Why? Simply to see that you’ve touched on programming before and know what you’re getting yourself into and can reflect upon your experiences after trying it out. We will not judge your solution based on the quality of your code, this is a learning exercise. It will be fun, we promise. 
 
-## The brief
+## The Brief
 
-Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for the first part of the education. Your task is to exmplain **one word** from the glossary.md file in code folder. Choose the word with the number that matches your bithday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for all new web developers. 
 
-Style your page it however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
+Your task is to explain **one word** from the `glossary.md` file in code folder. Choose the word with the number that matches your birthday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+
+Style your page however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
 
 ## Requirements
 Your solution must contain:
@@ -53,15 +55,11 @@ Make sure to have fun during the process! Do something that you find interesting
 
 ## How to complete this assignment
 
-1. Start by sketching with pen and paper how you want your version of Google's login page to look like.
-1. Structure your work. Break down your solution in smaller blocks. Estimate how long each block will take to build. Does it sound reasonable to finish? If yes, move on to the next step. If not, go back to step 1 and revise your scope.
-1. Download or clone this repository with templates and start coding.
-
 ### Download the code files
 
 We have given you a little head start. If you download all files from this project to your computer you will find a `code` folder. The code folder contains of two files, a `index.html` file and a `style.css` file. The most simple approach is to download a code editor and open them in, for example [Atom](https://atom.io/).
 
-In Atom you edit the files. After saving them you can click on the `index.html` file to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
+In Atom you edit the files. After saving them you can click on the `index.html` file in your file browser to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
 
 ### Hand in the assignment
 
@@ -75,6 +73,13 @@ Good luck!
 
 ### How you will be judged
 The coding assignment will be judged by a jury from the industry. All solutions will be anonymously judged, and what we will be looking for is your solution in relation to your previous knowledge – no need to panic!
+
+**What we will look at:** 
+* Your usage of HTML tags
+* Your usage of CSS such as classes
+* That you code is clean and easy to read. 
+* That all the required parts are there. 
+* Your solution based on the previous knowledge that you have. 
 
 ---
 
