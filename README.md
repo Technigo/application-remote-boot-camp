@@ -16,7 +16,7 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
-We will fill seats continuously. You can expect to get an answer from us no later than 14 days from you handing in your application. This means that the faster you hand in your application the faster you'll get an answer and your chance of getting a spot is higher.
+We will fill seats continuously. You can expect to hear back from us no later than 14 days from you handing in your application. However, you're last day to send in your application is on June 7th, but seats will be filled continuously, we can't promise there will be seats left on the day of the deadline. 
 
 Start preparing already now with your employer for potential leave of absence. The program starts on September 26 – Yay!
 
@@ -42,7 +42,7 @@ Your solution must contain:
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
-All the application pages will be shared among those that get accepted into the program and be used as a glossary during the program. Make sure to write in english. 
+All the application pages will be shared among those that get accepted and be used as a glossary during the program. Make sure to write in english. 
 
 Have fun during the process! Do something that you find interesting and motivating.
 
@@ -50,9 +50,9 @@ Have fun during the process! Do something that you find interesting and motivati
 
 ### Download the code files
 
-We have given you a little head start. If you download all files from this project by clicking the green button `Clone or Download` at the top of this page you will find a `code` folder. The folder contains of three files, a `index.html` file, a `style.css` file and the glossary.md file. The most simple approach is to download a code editor and open them in, for example [Atom](https://atom.io/).
+We have given you a little head start. If you download all files from this project by clicking the green button `Clone or Download` at the top of this page you will find a `code` folder. The folder contains of three files, a `index.html` file, a `style.css` file and the `glossary.md` file. The most simple approach is to download a code editor and open them in, for example [Atom](https://atom.io/).
 
-In Atom you edit the files. After saving them you can click on the `index.html` file in your file browser to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
+In Atom you edit the files. After saving them you can click on the `index.html` in your file browser to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
 
 ### Hand in the assignment
 
@@ -71,7 +71,7 @@ The coding assignment will be judged by a jury from the industry. All solutions 
 * Your usage of HTML tags
 * Your usage of CSS such as classes
 * That you code is clean and easy to read. 
-* That all the required parts are there. 
+* That all the requiredments are there. 
 * Your solution based on the previous knowledge that you have. 
 
 ---
