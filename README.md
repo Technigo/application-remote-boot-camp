@@ -28,7 +28,7 @@ Good luck!
 
 # Technigo Code Introduction
 
-This is the first step, and the most fun, in the application – The Coding Introduction. Yes, we want you to do a little coding challenge – don't panic. Why? Simply to see that you’ve touched on programming before and know what you’re getting yourself into and can reflect upon your experiences after trying it out. We will not judge your solution based on the quality of your code, this is a learning exercise. It will be fun, we promise. 
+This is the first step, and the most fun, in the application – The Code Introduction. Yes, we want you to do a little coding challenge – don't panic. Why? Simply to see that you’ve touched on programming before and know what you’re getting yourself into and can reflect upon your experiences after trying it out. This is a learning exercise. It will be fun, we promise. 
 
 ## The Brief
 
