@@ -1,4 +1,4 @@
-# Apply for the Technigo Remote frontend program
+# Apply for the Technigo Remote Frontend Program
 
 We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program: 
 
