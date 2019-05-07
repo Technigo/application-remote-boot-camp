@@ -34,24 +34,21 @@ This is the first step, and the most fun, in the application – The Coding Intr
 
 Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for all new web developers. 
 
-Your task is to explain **one word** from the `glossary.md` file in code folder. Choose the word with the number that matches your birthday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+Your task is to explain **one word** from the `glossary.md` file in the attached folder. Choose the word with the number that matches your birthday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
 
 Style your page however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
 
 ## Requirements
 Your solution must contain:
-* An title.
+* A title.
 * A paragraph of text to explain your word (~100 words)
 * 3 links to useful resources to read more. 
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
-All the application pages will be shared aming those that get accepted into the program and be used as a glossary during the program. Make sure to write in english. 
+All the application pages will be shared among those that get accepted into the program and be used as a glossary during the program. Make sure to write in english. 
 
-### Why a coding challenge?
-We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
-
-Make sure to have fun during the process! Do something that you find interesting and motivating.
+Have fun during the process! Do something that you find interesting and motivating.
 
 ## How to complete this assignment
 
