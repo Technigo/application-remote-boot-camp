@@ -34,7 +34,7 @@ This is the first step, and the most fun, in the application – The Code Introd
 
 Knowledge sharing is a big part of this program. You'll be expected to constantly share your knowledge and help others. Just like developers do in a team. Together we will co-create a glossary of all neccessary words to know for all new web developers. 
 
-Your task is to explain **one word** from the `glossary.md` file in the attached folder. Choose the word with the number that matches your birthday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
+Your task is to explain **one word** from the `glossary.md` file in the attached folder on the top of this page. Choose the word with the number that matches your birthday. You should do a little bit of research of the word and create a small webpage that explains the word. Make sure you understand your own explanation. 
 
 Style your page however you like, go crazy bold or a do it more minimalistic - the important thing is that you have fun doing it! And hopefully learn something new in the process.
 
