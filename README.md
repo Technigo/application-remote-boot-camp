@@ -11,7 +11,7 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 ✅First, complete the code introduction. See brief below. 
 
-✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/LqJzy0)**
+✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/LqJzy0?applied=full-program-dec-2019)**
 
 
 If you have any questions, plz reach out on hello@technigo.io. 
@@ -42,7 +42,7 @@ Your solution must contain:
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
-All the application pages will be shared among those that get accepted and be used as a glossary during the program. Make sure to write in english. 
+All the application pages will be shared among those that get accepted and be used as a glossary during the program. Make sure to write in english and not to add your name or contact details anywhere in your solution. Your coding assignment will be judged anonymously.  
 
 Have fun during the process! Do something that you find interesting and motivating.
 
