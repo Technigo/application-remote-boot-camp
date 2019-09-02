@@ -11,14 +11,14 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 ✅First, complete the code introduction. See brief below. 
 
-✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/f5xUV3)**
+✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/LqJzy0)**
 
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
-We will fill seats continuously. You can expect to hear back from us no later than 14 days from you handing in your application. However, you're last day to send in your application is on June 7th, but seats will be filled continuously, we can't promise there will be seats left on the day of the deadline. 
+We will fill seats continuously. You can expect to hear back from us no later than 15 working days from you handing in your application. However, if you want to join the december program your last day to send in your application is on October 31st, but seats will be filled continuously, we can't promise there will be seats left on the day of the deadline. 
 
-Start preparing already now with your employer for potential leave of absence. The program starts on September 26 – Yay!
+Start preparing already now with your employer for potential leave of absence. The next program starts on December 2nd – Yay!
 
 Good luck! 
 
