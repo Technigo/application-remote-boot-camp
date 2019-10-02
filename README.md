@@ -60,7 +60,7 @@ Hand in the assignment by:
 * Create an account on Github.com
 * Start a new repository or project, make sure it's public.
 * [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your whole code folder.
-* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/f5xUV3)
+* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/LqJzy0?applied=full-program-dec-2019)
 
 Good luck!
 
