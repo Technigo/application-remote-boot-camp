@@ -16,9 +16,10 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
-We will fill seats continuously. You can expect to hear back from us no later than 15 working days from you handing in your application. However, if you want to join the december program your last day to send in your application is on October 31st, but seats will be filled continuously, we can't promise there will be seats left on the day of the deadline. 
+The next program starts on January 13th, 2020 and last day to apply is November 12th, 2019. 
+We will fill seats continuously, we can't promise there will be seats left on the day of the deadline.  You can expect to hear back from us no later than 15 working days from you handing in your application. 
 
-Start preparing already now with your employer for potential leave of absence. The next program starts on December 2nd – Yay!
+Start preparing already now with your employer for potential leave of absence.
 
 Good luck! 
 
