@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register yourself!</title>
+	<title>CSS</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<form><ul>
+	 <li><strong>First name</strong>:<input type="text" name="firstname"></li><br>
+	 <li><em>Last name:</em><input  type="text" name="lastname"></li><br>
+	 <li>Your Email:<input type="email" name="Email"></li><br>
+	 <li>Birthdate:<input type="date" name="Birthday"></li><br>
+	<li> Personal number:<input type="text" name="personalnumber"></li><br>
+	<li>Password: <input type="password" min="5" name="password"></li><br>
+	 Gender:<br>
+	 <input type="radio" name="gender" value="Female">Female<br>
+	 <input type="radio" name="gender" value="Male">Male<br>
+	 <input type="radio" name="gender"value="Don't know">Don't know<br>
+
+	 Pets:<br>
+	 <input type="checkbox" name="Dogs" value="Dogs">Dogs<br>
+	 <input type="checkbox" name="Cats" value="Cats">Cats<br>
+	 Cars:<br>
+	 <select value="cars">
+	 <option value="volvo" name="Volvo">Volvo</option>
+	 <option value="BMW" name="BMW">BMW</option>
+	</select><br>
+
+	<input type=submit value="Register">
+	<input type="reset" value="Oups">
+      </ul>
+	</form>
+
+</body>
+</html>
