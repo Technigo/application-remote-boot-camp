@@ -14,13 +14,10 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 ✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/LqJzy0?applied=full-program-dec-2019)**
 
 
-If you have any questions, plz reach out on hello@technigo.io. 
+If you have any questions, plz reach out on hello@technigo.io or [sign up to one of our open live webinars.](https://www.technigo.io/community) . 
 
-The next program starts on August 18th 2020 and your last day to apply for an early bird price is March 30th. 
-
-The official application period with regular pricing will be from April 27th to May 24th. 
-
-If you want to get a hint in the right direction or know more about the program, please [sign up to our open live webinars.](https://www.technigo.io/community) 
+## 📆Important Dates
+The next program starts on August 18th 2020 and your last day to apply for an early bird price is March 30th. The official application period with regular pricing will be from April 27th to May 24th. 
 
 Start preparing already now with your employer for potential leave of absence.
 
