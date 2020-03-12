@@ -16,8 +16,11 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
-The next program starts on January 13th, 2020 and last day to apply is November 12th, 2019. 
-We will fill seats continuously, we can't promise there will be seats left on the day of the deadline.  You can expect to hear back from us no later than 15 working days from you handing in your application. 
+The next program starts on August 18th 2020 and your last day to apply for an early bird price is March 30th. 
+
+The official application period with regular pricing will be from April 27th to May 24th. 
+
+If you want to get a hint in the right direction or know more about the program, please [sign up to our open live webinars.](https://www.technigo.io/community) 
 
 Start preparing already now with your employer for potential leave of absence.
 
