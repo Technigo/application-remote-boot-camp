@@ -11,7 +11,7 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 ✅First, complete the code introduction. See brief below. 
 
-✅Secondly, write your application. **[Fill in the written application.](https://technigo.typeform.com/to/LqJzy0?applied=full-program-dec-2019)**
+✅Secondly, write your application. **[Fill in the written application.](https://technigo.teamtailor.com/jobs/853655-apply-for-technigo-bootcamp-learn-to-code-for-the-web/applications/new?secret=79b45b27-8302-40e4-9f13-c74f642075d8)**
 
 
 If you have any questions, plz reach out on hello@technigo.io or [sign up to one of our open live webinars.](https://www.technigo.io/community) . 
