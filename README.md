@@ -19,6 +19,10 @@ If you have any questions, plz reach out on hello@technigo.io or [sign up to one
 ## 📆Important Dates
 The next program starts on August 18th 2020 and your last day to apply for an early bird price is March 30th. The official application period with regular pricing will be from April 27th to May 24th. 
 
+## 🤝Payment and Pricing
+ 
+For those applying during the early bird period the boot camp fee is 49 000 SEK incl. VAT (59 000 SEK regular price). Payments are divided into two parts. Half, after accepting your seat, and the rest in the middle of the program. 
+
 Start preparing already now with your employer for potential leave of absence.
 
 Good luck! 
@@ -43,7 +47,7 @@ Your solution must contain:
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
-All the application pages will be shared among those that get accepted and be used as a glossary during the program. Make sure to write in english and not to add your name or contact details anywhere in your solution. Your coding assignment will be judged anonymously.  
+All the application pages will be shared among those that get accepted and be used as a glossary during the program. Make sure to write in english and **not to add your name or contact details anywhere in your solution.** Your coding assignment will be judged anonymously.  
 
 Have fun during the process! Do something that you find interesting and motivating.
 
@@ -53,20 +57,16 @@ Have fun during the process! Do something that you find interesting and motivati
 
 We have given you a little head start. If you download all files from this project by clicking the green button `Clone or Download` at the top of this page you will find a `code` folder. The folder contains of three files, a `index.html` file, a `style.css` file and the `glossary.md` file. The most simple approach is to download a code editor and open them in, for example [Visual Studio Code](https://code.visualstudio.com/download).
 
-In Atom you edit the files. After saving them you can click on the `index.html` in your file browser to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
+In Visual Studio Code you edit the files. After saving them you can click on the `index.html` in your file browser to open it in a web browser to see your webpage take shape. Then you should be all set – happy coding!
 
 ### Hand in the assignment
 
-Hand in the assignment by:
-* Create an account on Github.com
-* Start a new repository or project, make sure it's public.
-* [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your whole code folder.
-* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/LqJzy0?applied=full-program-dec-2019)
+Compress your code folder to a zip file. Make sure that all your code files and images or other media assets that you are using are in the folder. Attach the zip file in the written application form. 
 
 Good luck!
 
 ### How you will be judged
-The coding assignment will be judged by a jury from the industry. All solutions will be anonymously judged, and what we will be looking for is your solution in relation to your previous knowledge – no need to panic!
+The coding assignment will be judged by a jury. All solutions will be anonymously judged, and what we will be looking for is your solution in relation to your previous knowledge – no need to panic!
 
 **What we will look at:** 
 * Your usage of HTML tags
