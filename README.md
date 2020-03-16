@@ -9,17 +9,17 @@ We're happy that you're thinking about applying for our new remote boot camp! He
 
 ### What you need to do: 
 
-✅First, complete the code introduction. See brief below. 
+✅ First, complete the code introduction. See brief below. 
 
-✅Secondly, write your application. **[Fill in the written application.](https://technigo.teamtailor.com/jobs/853655-apply-for-technigo-bootcamp-learn-to-code-for-the-web/applications/new?secret=79b45b27-8302-40e4-9f13-c74f642075d8)**
+✅ Secondly, write your application. **[Fill in the written application.](https://technigo.teamtailor.com/jobs/853655-apply-for-technigo-bootcamp-learn-to-code-for-the-web/applications/new?secret=79b45b27-8302-40e4-9f13-c74f642075d8)**
 
 
 If you have any questions, plz reach out on hello@technigo.io or [sign up to one of our open live webinars.](https://www.technigo.io/community) . 
 
-## 📆Important Dates
+## 📆 Important Dates
 The next program starts on August 18th 2020 and your last day to apply for an early bird price is March 30th. The official application period with regular pricing will be from April 27th to May 24th. 
 
-## 🤝Payment and Pricing
+## 🤝 Payment and Pricing
  
 For those applying during the early bird period the boot camp fee is 49 000 SEK incl. VAT (59 000 SEK regular price). Payments are divided into two parts. Half, after accepting your seat, and the rest in the middle of the program. 
 
