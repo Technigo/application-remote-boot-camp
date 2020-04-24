@@ -26,7 +26,7 @@ You have two payment options to choose from:
 
 1. **Payments are divided into two parts.** Half when accepting your seat, and the rest in the middle of the program.
 
-2. **Monthly payment.** You pay 2 months up front when accepting your seat and the rest monthly after the first two months of the program (9 835 SEK incl. VAT monthly for the 4 remaining months) Payments are divided into two parts. Half, after accepting your seat, and the rest in the middle of the program. 
+2. **Monthly payment.** You pay 2 months up front when accepting your seat and the remaining 4 months during the program (9 835 SEK incl. VAT monthly).
 
 Start preparing already now with your employer for potential leave of absence.
 
