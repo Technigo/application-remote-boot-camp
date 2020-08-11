@@ -20,7 +20,7 @@ If you have any questions, plz reach out to us on hello@technigo.io.
 The next program starts on January 11th 2021 and your last day to apply is November 30th 2020. [Please download full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
 
 ## 🤝 Payment and Pricing
- The cost for the program during Early Bird applicatiob is 4700 Euro incl. VAT
+ The cost for the program during Early Bird period is 4700 Euro incl. VAT.
 You have two payment options to choose from: 
 
 1. **Payments are divided into two parts.** Half when accepting your seat, and the rest in the middle of the program.
