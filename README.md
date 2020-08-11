@@ -11,22 +11,21 @@ We're happy that you're thinking about applying for our remote boot camp! Here y
 
 ✅ First, complete the code introduction. See brief below. 
 
-✅ Secondly, write your application. **[Fill in the written application.](https://technigo.teamtailor.com/jobs/853655-apply-for-technigo-bootcamp-learn-to-code-for-the-web/applications/new?secret=79b45b27-8302-40e4-9f13-c74f642075d8)**
+✅ Secondly, write your application. **[Fill in the written application.](https://technigo.teamtailor.com/jobs/923057-apply-for-technigo-bootcamp-spring-2021/applications/new?secret=8932a7b4-e6dd-42ef-93e3-1363f71833c4)**
 
 
-If you have any questions, plz reach out on hello@technigo.io or [sign up to one of our open live webinars.](https://www.technigo.io/community) . 
+If you have any questions, plz reach out to us on hello@technigo.io.
 
 ## 📆 Important Dates
-The next program starts on August 18th 2020 and your last day to apply is May 24th. [Please download full schedule and course syllabus for all important dates](https://www.getdrip.com/forms/966948579/submissions/new).
+The next program starts on January 11th 2021 and your last day to apply is November 30th. [Please download full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
 
 ## 🤝 Payment and Pricing
- 
-The cost for the program is 59 000 SEK including VAT.
+ The cost for the program during Early Bird applicatiob is 4700 Euro incl. VAT
 You have two payment options to choose from: 
 
 1. **Payments are divided into two parts.** Half when accepting your seat, and the rest in the middle of the program.
 
-2. **Monthly payment.** You pay 2 months up front when accepting your seat and the remaining 4 months during the program (9 835 SEK incl. VAT monthly).
+2. **Monthly payment.** You pay 20% up front when accepting your seat and the remaining months during the program.
 
 Start preparing already now with your employer for potential leave of absence.
 
