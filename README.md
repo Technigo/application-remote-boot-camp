@@ -17,7 +17,7 @@ We're happy that you're thinking about applying for our remote boot camp! Here y
 If you have any questions, plz reach out to us on hello@technigo.io.
 
 ## 📆 Important Dates
-The next program starts on January 11th 2021 and your last day to apply is November 29th 2020. [Please download full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
+The next program starts on January 11th 2021 and your last day to apply is December 13th 2020. [Please download full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
 
 ## 🤝 Payment and Pricing
  The cost for the program is 5670 Euro incl. VAT.
