@@ -11,7 +11,7 @@ We're so pleased that you're thinking about applying for our Remote Boot Camp! H
 
 ✅ First, complete the code introduction. See brief below. 
 
-✅ Secondly, **[complete the written application.](https://technigo.teamtailor.com/jobs/923057-apply-for-technigo-bootcamp-spring-2021/applications/new?secret=8932a7b4-e6dd-42ef-93e3-1363f71833c4)**
+✅ Secondly, **[complete the written application.](https://technigo.typeform.com/to/qX58nwGz#applied=xxxxx)**
 
 
 If you have any questions, please reach out to us at hello@technigo.io.
