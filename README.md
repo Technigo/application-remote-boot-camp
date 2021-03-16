@@ -69,7 +69,7 @@ In Visual Studio Code, you can edit the files. After saving them, you can click 
 
 ### Hand in the assignment
 
-Compress your code folder to a zip file. Make sure that all code files and images or other media assets that you are using are in the folder. Attach the zip file when you submit the written application form.
+Once you're fininshed just upload your project here on github. Make sure that it's public and contains all code files and images or other media assets that you are using in your project. You'll be asked to link to your project in the written application.
 
 Good luck!
 
