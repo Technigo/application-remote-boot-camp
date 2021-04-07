@@ -17,14 +17,11 @@ We're so pleased that you're thinking about applying for our Remote Boot Camp! H
 If you have any questions, please reach out to us at hello@technigo.io.
 
 ## 📆 Important Dates
-The next program starts on August 17th 2021 and your last day to apply is March 31th 2021. [Please download the full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
+The next program starts on August 17th 2021 and your last day to apply is March 30th 2021. [Please download the full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
 
 ## 🤝 Payment and Pricing
-Early Bird: 4700 Euro incl. VAT. Very limited seats!
-Apply by March 15-March 31, 2021.
-
-Regular Bird: 5670 Euro incl. VAT.
-Apply by May 3-May 30, 2021.
+5670 Euro incl. VAT.
+Apply by May 30, 2021.
 
 You have two payment options to choose from: 
 
