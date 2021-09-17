@@ -13,25 +13,19 @@ We're so pleased that you're thinking about applying for our Remote Boot Camp! H
 
 ✅ Secondly, **[complete the written application.](https://technigo.typeform.com/to/qX58nwGz#applied=xxxxx)**
 
-
 If you have any questions, please reach out to us at hello@technigo.io.
 
-## 📆 Important Dates
-The next program starts on August 17th 2021 and your last day to apply is March 30th 2021. [Please download the full schedule and course syllabus for all important dates](https://www.technigo.io/signup/download-more-info).
+## 📆 Deadline
+The next program starts on January 11, 2022 and your last day to apply is November 17, 2021 (Ocotber 2, 2021 to access early bird pricing). 
 
-## 🤝 Payment and Pricing
-5670 Euro incl. VAT.
-Apply by May 30, 2021.
+We will get back to you no later than 15 working days after you submit your application. We handle applications on a first-come, first-served basis, so we can't guarantee there'll be any spaces left if you wait until the application deadline day – submit your application as soon as you can!
 
-You have two payment options to choose from: 
+If you get offered a seat on the course, you have seven days to accept your seat. That's when you will officially approve the terms and conditions of the course and sign up. Submitting your application is not binding.
 
-1. **Payments are divided into two parts.** Pay half when accepting your place, and the rest in the middle of the program.
+[Check out the course webpage](https://www.technigo.io/program).
+for all information about the program, schedule, pricing, payment options and more. 
 
-2. **Monthly payment.** You can pay 20% upfront when accepting your place, and split the remaining fee over monthly installments throughout the program.
-
-Start preparing now with your employer for any potential leave of absence.
-
-Good luck! 
+You will find more information in your "Application Package Email" about the application process and judgement. 
 
 # Technigo Code Introduction
 
