@@ -54,7 +54,7 @@ Have fun with the process! Do something that you find interesting and motivating
 
 ### Download the code files
 
-We have given you a little head start. If you download all files from this project by clicking the green button `Clone or Download` at the top of this page you will find a `code` folder. The folder contains three files, a `index.html` file, a `style.css` file and the `glossary.md` file. The simplest approach is to download a code editor and open them in that, for example, [Visual Studio Code](https://code.visualstudio.com/download).
+We have given you a little head start. If you download all files from this project by clicking the green button at the top of this page you will find a `code` folder. The folder contains three files, a `index.html` file, a `style.css` file and the `glossary.md` file. The simplest approach is to download a code editor and open them in that, for example, [Visual Studio Code](https://code.visualstudio.com/download).
 
 In Visual Studio Code, you can edit the files. After saving them, you can click on the `index.html` in your file browser to open it in a web browser and see your webpage take shape. Then, you should be all set – happy coding!
 
