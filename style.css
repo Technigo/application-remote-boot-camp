@@ -1,0 +1,17 @@
+/* Example styling of a h1 element */
+media="handheld, only screen and (max-device-width: 480px)"
+}
+
+h1 {
+  color: #333;
+}
+
+.steelblue-box {
+  background-color: steelblue;
+  padding:0px
+  width:0px
+}
+
+h2 {
+  color:#333;
+}
