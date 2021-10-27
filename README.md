@@ -16,9 +16,9 @@ We're so pleased that you're thinking about applying for our Remote Boot Camp! H
 If you have any questions, please reach out to us at hello@technigo.io.
 
 ## 📆 Deadline
-The next program starts on January 11, 2022 and your last day to apply is November 17, 2021 (Ocotber 2, 2021 to access early bird pricing). 
+The next program starts on January 11, 2022 and your last day to apply is November 28, 2021 . 
 
-We will get back to you no later than 15 working days after you submit your application. We handle applications on a first-come, first-served basis, so we can't guarantee there'll be any spaces left if you wait until the application deadline day – submit your application as soon as you can!
+We handle applications on a first-come, first-served basis, so we can't guarantee there'll be any spaces left if you wait until the application deadline day – submit your application as soon as you can!
 
 If you get offered a seat on the course, you have seven days to accept your seat. That's when you will officially approve the terms and conditions of the course and sign up. Submitting your application is not binding.
 
