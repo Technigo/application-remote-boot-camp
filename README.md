@@ -1,6 +1,6 @@
 # Apply for the Technigo Remote Web Boot Camp
 
-We're so pleased that you're thinking about applying for our Remote Boot Camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program:
+We're so pleased that you're thinking about applying for our Remote Web Boot Camp! Here you'll find all information about the code introduction and the written application. The application is designed to let you try out three of the foundations of the program:
 
 1. Coding
 2. Knowledge sharing
@@ -11,12 +11,12 @@ We're so pleased that you're thinking about applying for our Remote Boot Camp! H
 
 ✅ First, complete the code introduction. See brief below. 
 
-✅ Secondly, **[complete the written application.](https://technigo.typeform.com/to/IkcI5Rbj#applied=xxxxx)**
+✅ Secondly, **[complete the written application.](https://technigo.typeform.com/to/cA7IPSjA#applied=xxxxx)**
 
 If you have any questions, please reach out to us at hello@technigo.io.
 
 ## 📆 Deadline
-The next program starts on January 11, 2022 and your last day to apply is November 28, 2021 . 
+The next program starts on August 16, 2022 and your last day to apply is May 29, 2022. 
 
 We handle applications on a first-come, first-served basis, so we can't guarantee there'll be any spaces left if you wait until the application deadline day – submit your application as soon as you can!
 
