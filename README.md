@@ -16,7 +16,7 @@ We're so pleased that you're thinking about applying for our Remote Web Boot Cam
 If you have any questions, please reach out to us at hello@technigo.io.
 
 ## 📆 Deadline
-The next program starts on August 16, 2022 and your last day to apply is May 29, 2022. 
+The next program starts on August 16, 2022 and your last day to apply is May 29, 2022. If you want to access early bird pricing and a 10% discount on the price, make sure to apply before March 27th, 2022. 
 
 We handle applications on a first-come, first-served basis, so we can't guarantee there'll be any spaces left if you wait until the application deadline day – submit your application as soon as you can!
 
